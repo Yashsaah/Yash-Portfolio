@@ -146,7 +146,7 @@ export const achievements = [
   },
   {
     year: "2024 — 2026",
-    title: "Gandhi Scholarship Awardee",
+    title: "Mahatma Gandhi Scholarship Awardee",
     org: "Embassy of India",
     accent: "amber",
     description:
